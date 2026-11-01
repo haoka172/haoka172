@@ -8,7 +8,9 @@
 
 ## 🖥️ 平台预览
 
-![172号卡分销系统官网首页](docs/images/home.jpg)
+![172号卡分销系统官网首页：流量卡代理首选平台](docs/images/home-hero.jpg)
+
+![官网在售卡品区：各运营商套餐明示通用流量/定向流量/通话时长](docs/images/home-plans.jpg)
 
 ## ✨ 核心功能
 
@@ -52,8 +54,8 @@
 
 ## 📚 教程与文档
 
-- [邀请码获取与使用指南](https://github.com/haoka172/172-invite-code) —— 邀请码是多少、怎么填、一级代理邀请码说明
-- [流量卡挑选指南](https://github.com/haoka172/172-card-guide) —— 需求评估、避坑清单与套餐对比方法
+- [邀请码获取与使用指南](https://github.com/haoka172/172-invite-code) —— 邀请码是多少、怎么填、一级代理邀请码说明；附[注册前核对清单](https://github.com/haoka172/172-invite-code/blob/main/docs/registration-checklist.md)与[从注册到出第一单](https://github.com/haoka172/172-invite-code/blob/main/docs/agent-quickstart.md)
+- [流量卡挑选指南](https://github.com/haoka172/172-card-guide) —— 需求评估、避坑清单与套餐对比方法；附[四大运营商怎么选](https://github.com/haoka172/172-card-guide/blob/main/docs/operators.md)、[避坑详解](https://github.com/haoka172/172-card-guide/blob/main/docs/pitfalls.md)与[对比工作表](https://github.com/haoka172/172-card-guide/blob/main/docs/compare-worksheet.md)
 - [代理入驻指引](https://www.ka172.cn/agent) —— 从注册到出第一单
 - [卡品中心](https://www.ka172.cn/cards/all/1) —— 四大运营商在售套餐一览
 - [官网资讯](https://www.ka172.cn/) —— 政策动态与推广技巧

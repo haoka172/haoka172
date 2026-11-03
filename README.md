@@ -41,7 +41,7 @@
 一个面向流量卡推广从业者的分销管理平台：平台对接运营商号卡资源，分销商在后台选品、生成推广链接，用户办理激活后按单结算佣金。
 
 **邀请码在哪里获取？**
-注册代理时需要填写邀请码。可通过官网代理入驻页（ka172.cn/agent）按指引获取官方邀请码，注册后即可开通分销权限。详细的获取与填写说明见[邀请码指南仓库](https://github.com/haoka172/172-invite-code)。
+官方邀请码为 172888，在[官方邀请码页](https://www.ka172.cn/invite)可查看、复制，注册代理时在「推荐码」栏填入即可开通一级代理权限。详细的获取与填写说明见[邀请码指南仓库](https://github.com/haoka172/172-invite-code)。
 
 **平台靠谱吗？**
 平台为运营商金牌合作伙伴，号卡均为运营商官方直发，支持四大运营商官方 App 查询真伪；佣金体系累计发放超 6 亿元，结算记录后台可查。
@@ -56,6 +56,7 @@
 
 - [邀请码获取与使用指南](https://github.com/haoka172/172-invite-code) —— 邀请码是多少、怎么填、一级代理邀请码说明；附[注册前核对清单](https://github.com/haoka172/172-invite-code/blob/main/docs/registration-checklist.md)与[从注册到出第一单](https://github.com/haoka172/172-invite-code/blob/main/docs/agent-quickstart.md)
 - [流量卡挑选指南](https://github.com/haoka172/172-card-guide) —— 需求评估、避坑清单与套餐对比方法；附[四大运营商怎么选](https://github.com/haoka172/172-card-guide/blob/main/docs/operators.md)、[避坑详解](https://github.com/haoka172/172-card-guide/blob/main/docs/pitfalls.md)与[对比工作表](https://github.com/haoka172/172-card-guide/blob/main/docs/compare-worksheet.md)
+- [官方邀请码页](https://www.ka172.cn/invite) —— 邀请码查询与填写步骤
 - [代理入驻指引](https://www.ka172.cn/agent) —— 从注册到出第一单
 - [卡品中心](https://www.ka172.cn/cards/all/1) —— 四大运营商在售套餐一览
 - [官网资讯](https://www.ka172.cn/) —— 政策动态与推广技巧
